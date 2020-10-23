@@ -1,0 +1,433 @@
+{
+  "historico": {
+    "categorias": [
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2008",
+      "2009",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "valores": [
+      85626,
+      87806,
+      90128,
+      95003,
+      97701,
+      100378,
+      107285,
+      109705,
+      114250,
+      116418,
+      118964,
+      120948,
+      122865,
+      124940,
+      126742,
+      130439,
+      132400,
+      134293
+    ],
+    "faixas": [
+      2.8,
+      2.8,
+      2.8,
+      3,
+      3,
+      3,
+      3.2,
+      3.2,
+      3.2,
+      3.4,
+      3.4,
+      3.4,
+      3.4,
+      3.4,
+      3.4,
+      3.6,
+      3.6,
+      3.6
+    ]
+  },
+  "risco": {
+    "ano": 2020,
+    "valorAnterior": 129048,
+    "faixa": 3.6,
+    "valor": 134293,
+    "valorPosterior": 142633,
+    "dif": 5245,
+    "tendencia": "descer"
+  },
+  "setores": {
+    "tipo": [
+      {
+        "distrito": "05",
+        "total": "235",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "05",
+        "total": "54",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "05",
+        "total": "2",
+        "cod": "4",
+        "desc": "Setores com baixo patamar domiciliar"
+      },
+      {
+        "distrito": "08",
+        "total": "65",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "08",
+        "total": "7",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "08",
+        "total": "1",
+        "cod": "4",
+        "desc": "Setores com baixo patamar domiciliar"
+      },
+      {
+        "distrito": "10",
+        "total": "33",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "10",
+        "total": "8",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "10",
+        "total": "1",
+        "cod": "9",
+        "desc": "Comunidade quilombola"
+      },
+      {
+        "distrito": "12",
+        "total": "45",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "12",
+        "total": "1",
+        "cod": "4",
+        "desc": "Setores com baixo patamar domiciliar"
+      },
+      {
+        "distrito": "15",
+        "total": "49",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "15",
+        "total": "13",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "15",
+        "total": "1",
+        "cod": "9",
+        "desc": "Comunidade quilombola"
+      }
+    ],
+    "situacao": [
+      {
+        "distrito": "05",
+        "total": "270",
+        "cod": "1",
+        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+      },
+      {
+        "distrito": "05",
+        "total": "18",
+        "cod": "2",
+        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
+      },
+      {
+        "distrito": "05",
+        "total": "2",
+        "cod": "8",
+        "desc": "Situação rural - Área rural"
+      },
+      {
+        "distrito": "05",
+        "total": "1",
+        "cod": "9",
+        "desc": "Massa de água"
+      }
+    ]
+  },
+  "repac": {
+    "participantes": [
+      {
+        "cod_membro": "133039",
+        "nome": "ADãO VIEIRA DOS SANTOS",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorvidrinho@cmva.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99930-6867",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99955-8000",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134551",
+        "nome": "ADRIANA PRATI",
+        "cargo": "Coordenadora",
+        "entidade": "Colegio Ethicos",
+        "email": [
+          "colegioethicos@contato.net",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3522-3424",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193033",
+        "nome": "ADRIANO DO CANTO FERNANDES",
+        "cargo": "Síndico",
+        "entidade": "Residencial Ed. Village",
+        "email": [
+          "adrianodocantofernandes@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98844-8313",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193099",
+        "nome": "ALDO ANGELONI",
+        "cargo": "Síndico",
+        "entidade": "Ed. Monte Carlo",
+        "email": [
+          "Só WhatsApp/celular",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99628-1919",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191962",
+        "nome": "ALEXANDRA PEREIRA",
+        "cargo": "Síndica",
+        "entidade": "Ed. Darolt",
+        "email": [
+          "alexandrapereirasc@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99949-1866",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191913",
+        "nome": "ALIDEN WILLAN",
+        "cargo": "Síndico",
+        "entidade": "Ed. Oasis",
+        "email": [
+          "alidenwr@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99616-0254",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133967",
+        "nome": "ALIRIA COSTA",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Cidade Encantada",
+        "email": [
+          "prof.aliriac@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99632-5712",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      }
+    ],    
+    
+    "reunioes": [
+      {
+        "data": "2020-02-12 14:00:00",
+        "cod_subarea": "2927408201",
+        "siape_presidente": "768261",
+        "local": "Centro de Cultura da Câmara Municipal de Salvador",
+        "tipo": "primeira",
+        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
+        "status": "realizada",
+        "participantes": [
+          "133967",
+          "191913",
+          "191962",
+          "193099",
+          "193033",
+          "134551",
+	        "133039"
+        ]
+      },
+      {
+        "data": "2020-02-04 11:00:00",
+        "cod_subarea": "2927408201",
+        "siape_presidente": "2103806",
+        "local": "Teste",
+        "tipo": "estadual",
+        "complemento": "Teste",
+        "status": "realizada",
+        "participantes": [
+          "133967"
+        ]
+      },
+      {
+        "data": "2020-02-12 14:00:00",
+        "cod_subarea": "2927408201",
+        "siape_presidente": "768261",
+        "local": "Centro de Cultura da Câmara Municipal de Salvador",
+        "tipo": "segunda",
+        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
+        "status": "realizada",
+        "participantes": [
+          "133967",
+          "191913",
+          "191962",
+          "193099",
+          "193033",
+          "134551",
+	  "133039"
+        ]
+      },
+      {
+        "data": "2020-03-02 15:00:00",
+        "cod_subarea": "2927408201",
+        "siape_presidente": "1356526",
+        "local": "Secretaria de Educação do Estado da Bahia",
+        "tipo": "extraordinaria",
+        "complemento": "",
+        "status": "realizada",
+        "participantes": [
+          "133967",
+          "134551"
+        ]
+      },
+      {
+        "data": "2020-03-11 15:00:00",
+        "cod_subarea": "2927408213",
+        "siape_presidente": "2103806",
+        "local": "Pref. Bairro Liberdade \\ São Caetano",
+        "tipo": "local",
+        "complemento": "",
+        "status": "realizada",
+        "participantes": [
+          "191913",
+          "193099"
+        ]
+      }
+    ]
+  },
+  "info": {
+    "cod_mun": "3300209",
+    "nome_mun": "ARARUAMA",
+    "cod_agencia": "330070400",
+    "nome_agencia": "CABO FRIO",
+    "data": "2020-10-06 10:22:28",
+    "fonte": [
+      "SIDRA/IBGE",
+      "BDO/COC/IBGE"
+    ]
+  }
+}
